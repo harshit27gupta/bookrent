@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "library",
+    "slug": "library",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bookrent.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/bookrent.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bookrent.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.harshitraj2708.library"
+    },
+    "web": {
+      "favicon": "./assets/bookrent.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4d650765-b2de-4abc-b289-ea02db62e9ff"
+      }
+    }
+  }
+}
